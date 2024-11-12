@@ -1,6 +1,6 @@
-package cho5;
+package ch05;
 
-public class ArrayEx10 {
+public class ArrayEx {
     public static void main(String[] args) {
         int[] numArr = new int[10];
 
