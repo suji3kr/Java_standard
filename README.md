@@ -19,8 +19,7 @@
 <br/><br/><br/> 
 #### List 중복 가능 /   Set 중복 불가   /  Map  키, 값의 데이터 집합 
 
-<br/><br/><br/>
-
+<br/>
 
 ![화면 캡처 2024-11-13 114148](https://github.com/user-attachments/assets/388d91e1-e552-4078-bcd6-ae17d6d34252)
 
@@ -58,14 +57,14 @@
       }
     }
 
->* = 접근시간 테스트 =
->* ArrayList : 1
->* LinkedList : 235
+> = 접근시간 테스트 = 결과
+> ArrayList : 1
+> LinkedList : 235
 
 <br/><br/>
-* ### map.put
-
 * ### list.add
+* ### map.put
+<br/><br/>
 
 	    package ch11.sec31;
 	    import java.util.*;
@@ -104,11 +103,12 @@
 	        System.out.println("최저점수 : " + Collections.min(values));
 	      }
 	    }
+<br/><br/>
+-------------------------------------------
 
+<br/><br/><br/>
 
-
-
-* ### List list<String> = new ArrayList<>(); 정형
-* ### Map map<String> = new HashMap<>(); 비정형
-
-정형비정형 이미지 
+ ### List list<String> = new ArrayList<>(); 정형
+ ### Map map<String> = new HashMap<>(); 비정형
+<br/><br/>
+![화면 캡처 2024-11-13 120938](https://github.com/user-attachments/assets/22443e40-54e8-4243-b5a5-1b4e925427de)
