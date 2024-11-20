@@ -7,7 +7,7 @@
 * ### MVC2모델
 
 
-오늘사진 
+![화면 캡처 2024-11-20 170200](https://github.com/user-attachments/assets/46a76c5e-a350-4360-892e-bfae387712e8)
 
 
 --------
@@ -20,7 +20,10 @@
 #### List 중복 가능 /   Set 중복 불가   /  Map  키, 값의 데이터 집합 
 
 <br/><br/><br/>
-11/13사진
+
+
+![화면 캡처 2024-11-13 114148](https://github.com/user-attachments/assets/388d91e1-e552-4078-bcd6-ae17d6d34252)
+
 
 
 
